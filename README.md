@@ -1,174 +1,27 @@
-👋 Hey, I'm Dikshant Rajput
+# 💫 About Me:
+🔭 I’m currently working on AI-powered applications, developer tools, and ValoVault.<br><br>👯 I’m looking to collaborate on AI/ML projects, open-source tools, and full-stack applications.<br><br>🤝 I’m looking for help with AI engineering, local LLM optimization, and building scalable applications.<br><br>🌱 I’m currently learning LLM integration, RAG systems, advanced React, and AI-assisted development.<br><br>💬 Ask me about Python, React, FastAPI, Firebase, local LLMs, and VALORANT projects.<br><br>⚡ Fun fact: I turn random ideas into working projects — from AI code assistants to gaming databases! 🎮
 
-"MCA Graduate • Software Developer • AI & Full-Stack Builder"
 
-I build AI-powered applications, developer tools, and full-stack products with a focus on practical solutions, clean interfaces, and real-world usability.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dikshant-rajput/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Dikshant Rajput) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dikshantrajput2007087@gmail.com) 
 
-Currently exploring AI engineering, software development, developer tooling, and intelligent applications.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Dikshant1408&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Dikshant1408&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dikshant1408&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-💻 Software Development
-🤖 AI / Local LLMs
-🌐 Full-Stack Development
-📱 Mobile Applications
-🔥 Firebase & Cloud
-🧠 Developer Tools
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Dikshant1408&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🚀 What I Build
-
-- 🤖 AI-powered applications using LLMs, RAG, and local models
-- 🛠️ Developer tools for code analysis, debugging, and automation
-- 🌐 Full-stack web applications with React, Next.js, FastAPI & Firebase
-- 📱 Mobile applications with React Native & Expo
-- 🎮 Gaming & VALORANT projects including databases and community tools
-- ⚡ Experimental projects through hackathons and rapid prototyping
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Dikshant1408&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Dikshant1408&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🧠 Featured Projects
-
-🔍 AI Code Assistant
-
-An AI-powered developer tool designed to analyze and improve source code.
-
-Features
-
-- Static code analysis
-- AST parsing
-- Control-flow analysis
-- Duplicate-code detection
-- Security analysis
-- AI-assisted bug fixing
-- RAG-powered code understanding
-- Local LLM integration
-
-Stack:
-"React" "TypeScript" "FastAPI" "Python" "Ollama" "DeepSeek Coder" "ChromaDB" "Sentence Transformers"
-
----
-
-🎮 ValoVault
-
-A VALORANT database and discovery platform covering:
-
-- Agents
-- Weapons
-- Skins
-- Bundles
-- Maps
-- Game data
-
-Built around the VALORANT API ecosystem with a focus on fast navigation, modern UI, and useful game information.
-
-Stack:
-"React" "Next.js" "TypeScript" "Tailwind CSS" "Firebase"
-
----
-
-📊 TradingBot
-
-A personal trading automation and experimentation project.
-
-Focused on learning:
-
-- Algorithmic trading
-- Market data
-- Strategy development
-- Risk management
-- Automation
-
-«Built as a personal learning project rather than a public trading service.»
-
----
-
-🛠️ Tech Stack
-
-Languages
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-"SQL" (https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-Frontend
-
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"Next.js" (https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-"React Native" (https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"TailwindCSS" (https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-"Vite" (https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-Backend & Database
-
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-"Firebase" (https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-"Supabase" (https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-
-AI / ML
-
-"Ollama" (https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-"TensorFlow" (https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-"LLMs" "RAG" "ChromaDB" "Sentence Transformers" "AST Parsing" "Static Analysis"
-
-Tools
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-📈 GitHub Activity
-
-https://github-readme-stats.vercel.app/api?username=Dikshant1408&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true
-
-https://github-readme-streak-stats.herokuapp.com/?user=Dikshant1408&theme=github-dark-blue&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshant1408&theme=github_dark&hide_border=true&layout=compact&langs_count=8
-
----
-
-🏆 GitHub Trophies
-
-https://github-profile-trophy.vercel.app/?username=Dikshant1408&theme=darkhub&no-frame=true&no-bg=true&margin-w=6
-
----
-
-🌐 Connect With Me
-
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/dikshant-rajput/)
-""Email" (https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:dikshantrajput2007087@gmail.com)
-""YouTube" (https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)" (https://www.youtube.com/@GodRikt)
-
----
-
-💡 Currently Exploring
-
-AI Engineering
-Local LLM Applications
-RAG Systems
-Developer Tools
-Full-Stack Architecture
-Cloud & Firebase
-Algorithmic Systems
-Modern UI/UX
-
----
-
-⚡ Fun Fact
-
-I like turning random ideas into working prototypes.
-
-Sometimes that means building an AI developer tool.
-
-Sometimes it's a VALORANT database.
-
-Sometimes it's a completely unnecessary project that somehow becomes useful. 😄
-
----
-
-⭐ If you find something useful here, consider starring the repository!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
